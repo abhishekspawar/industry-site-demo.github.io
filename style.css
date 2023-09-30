@@ -117,7 +117,7 @@ transform: scale(1);
   overflow: hidden;
   position: relative;
   /* background-color: red; */
-  /* background-image: url("./heroImg.jpg"); */
+  background-image: url("./images/hero1.jpg");
   background-position: center;
   background-size: cover;
   animation: change 10s infinite ease;
